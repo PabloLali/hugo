@@ -1,4 +1,4 @@
-baseURL = 'https://pablolali.github.io/hugo/'
+baseURL = 'https://pablolali.github.io/'
 languageCode = 'es'
 title = 'Gatetes'
 theme = 'tema'
