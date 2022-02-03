@@ -5,12 +5,12 @@
     
     
     
-    <link>https://pablolali.github.io/categories/</link>
+    <link>https://pablolali.github.io/hugo/categories/</link>
     <description>Recent content in Categories on Gatetes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-	<atom:link href="https://pablolali.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pablolali.github.io/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
