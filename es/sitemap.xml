@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pablolali.github.io/hugo/es/categories/</loc>
+    <loc>https://pablolali.github.io/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pablolali.github.io/hugo/categories/"
+                href="https://pablolali.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pablolali.github.io/hugo/es/categories/"
+                href="https://pablolali.github.io/es/categories/"
                 />
   </url><url>
-    <loc>https://pablolali.github.io/hugo/es/</loc>
+    <loc>https://pablolali.github.io/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pablolali.github.io/hugo/"
+                href="https://pablolali.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pablolali.github.io/hugo/es/"
+                href="https://pablolali.github.io/es/"
                 />
   </url><url>
-    <loc>https://pablolali.github.io/hugo/es/tags/</loc>
+    <loc>https://pablolali.github.io/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pablolali.github.io/hugo/tags/"
+                href="https://pablolali.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pablolali.github.io/hugo/es/tags/"
+                href="https://pablolali.github.io/es/tags/"
                 />
   </url>
 </urlset>

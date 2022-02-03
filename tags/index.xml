@@ -5,12 +5,12 @@
     
     
     
-    <link>https://pablolali.github.io/hugo/tags/</link>
+    <link>https://pablolali.github.io/tags/</link>
     <description>Recent content in Tags on Gatetes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-	<atom:link href="https://pablolali.github.io/hugo/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pablolali.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
