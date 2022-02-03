@@ -4,7 +4,7 @@ date: 2022-01-28T12:07:38+01:00
 draft: false
 ---
 
-![Example image](/gato.jpg)
+![Example image](/hugo/gato.jpg)
 
 El gato doméstico1​2​ (Felis silvestris catus), llamado más comúnmente gato, y de forma coloquial minino,3​ michino,4​ michi,5​ micho,6​ mizo,7​ miz,8​ morroño9​ o morrongo,10​ y algunos nombres más, es un mamífero carnívoro de la familia Felidae. Es una subespecie domesticada por la convivencia con el ser humano.
 
