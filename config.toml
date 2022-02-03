@@ -1,0 +1,38 @@
+baseURL = 'http://example.org/'
+languageCode = 'es'
+title = 'Gatetes'
+theme = 'tema'
+
+[languages]
+  [languages.es]
+    title = "Hola :3"
+    subtitle = "A simple theme for Hugo"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+
+    [languages.en.params.logo]
+      logoText = "Gatetes :3"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "Gatetes"
+        name = "Gatetes"
+        url = "/posts/post1"
+      [[languages.en.menu.main]]
+        identifier = "Mapaches"
+        name = "Mapaches"
+        url = "/posts/post2"
